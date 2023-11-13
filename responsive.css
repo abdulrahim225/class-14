@@ -1,0 +1,35 @@
+@media(max-width: 10px00){
+
+.section-1{
+    background-color:  rgb(12, 230, 238);
+}
+.section-1 h1{
+    color: rgb(23, 26, 25);
+    font-size: 50px;
+    font-style: normal;
+    text-align: center;
+}
+.section-1 p{
+    color:gray;
+    text-align: center;
+}
+
+
+}
+@media(max-width:500px){
+    .section-1{
+        background-color: blueviolet;
+
+    }
+    .section-1 h1{
+        color: chocolate;
+        font-size: 60px;
+        font-size: 60px;
+        font-style: italic
+    }
+    .section-1 p{
+        color:red;
+        text-align: center;
+        font-style: italic;
+    }
+}
